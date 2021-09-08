@@ -1,6 +1,6 @@
 # TruckManager
 
-TruckManager is a basic application to manage trucks. It covers the CRUD operations (**C**reate, **R**ead, **U**pdate, **D**elete), and has it protected by authentication.
+TruckManager is a basic application to manage trucks. It covers the CRUD operations (**C**reate, **R**ead, **U**pdate, **D**elete), and it is protected by authentication.
 
 ### Architecture
 
